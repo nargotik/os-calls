@@ -1,0 +1,4 @@
+/bin/questao*
+/bin/*.exe
+/nbproject
+*.exe*
