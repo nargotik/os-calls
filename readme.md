@@ -2,6 +2,8 @@
 O presente software foi desenvolvido no contexto académico e deve ser utilizado sem qualquer garantia por conta e risco do utilizador.
 ___Daniel Torres <a17442|at|alunos.ipca.pt>___
 http://www.github.com/nargotik
+
+[![Build Status](https://travis-ci.com/nargotik/os-calls.svg?branch=master)](https://travis-ci.com/nargotik/os-calls)
 ## Parte 1
 
 Em quase todos os exemplos do trabalho é utilizada a função stat para verificação se um ficheiro existe e que tipo de ficheiro se trata (se é directório ou ficheiro).
